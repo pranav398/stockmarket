@@ -1,0 +1,6 @@
+{
+  "name": "Apex Exchange — Multiplayer Stock Market Simulation",
+  "description": "Real-time multiplayer stock market simulation platform with Sudo-mode Admin market manipulation, live order execution, and an insider intelligence store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
